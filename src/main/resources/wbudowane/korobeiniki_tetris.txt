@@ -1,0 +1,15 @@
+# tytul: Korobeiniki (motyw z Tetrisa)
+# autor: rosyjska pieśń ludowa
+# tempo: 5.5
+pling: E5 - B4 C5 D5 - C5 B4 | A4 - A4 C5 E5 - D5 C5 | B4 - - C5 D5 - E5 - | C5 - A4 - A4 - - -
+pling: - D5 - F5 A5 - G5 F5 | E5 - - C5 E5 - D5 C5 | B4 - B4 C5 D5 - E5 - | C5 - A4 - A4 - - -
+pling: E5 - B4 C5 D5 - C5 B4 | A4 - A4 C5 E5 - D5 C5 | B4 - - C5 D5 - E5 - | C5 - A4 - A4 - - -
+pling: - D5 - F5 A5 - G5 F5 | E5 - - C5 E5 - D5 C5 | B4 - B4 C5 D5 - E5 - | C5 - A4 - A4 - - -
+bass@0.75: E2 E3 E2 E3 E2 E3 E2 E3 | A2 A3 A2 A3 A2 A3 A2 A3 | G#2 G#3 G#2 G#3 E2 E3 E2 E3 | A2 A3 A2 A3 A2 B2 C3 D3
+bass@0.75: D2 D3 D2 D3 D2 D3 D2 D3 | C2 C3 C2 C3 C2 C3 C2 C3 | B2 B3 B2 B3 E2 E3 E2 E3 | A2 A3 A2 A3 A2 A3 A2 A3
+bass@0.75: E2 E3 E2 E3 E2 E3 E2 E3 | A2 A3 A2 A3 A2 A3 A2 A3 | G#2 G#3 G#2 G#3 E2 E3 E2 E3 | A2 A3 A2 A3 A2 B2 C3 D3
+bass@0.75: D2 D3 D2 D3 D2 D3 D2 D3 | C2 C3 C2 C3 C2 C3 C2 C3 | B2 B3 B2 B3 E2 E3 E2 E3 | A2 A3 A2 A3 A2 A3 A2 A3
+hat@0.35: E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 -
+hat@0.35: E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 -
+hat@0.35: E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 -
+hat@0.35: E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 - | E4 - E4 - E4 - E4 -

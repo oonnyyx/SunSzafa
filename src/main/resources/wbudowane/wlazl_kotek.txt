@@ -1,0 +1,7 @@
+# tytul: Wlazł kotek na płotek
+# autor: polska piosenka ludowa
+# tempo: 3.5
+flute: G4 E4 E4 - F4 D4 D4 - | C4 E4 G4 - - - - - | G4 E4 E4 - F4 D4 D4 - | C4 E4 C4 - - - - -
+flute: G4 E4 E4 - F4 D4 D4 - | C4 E4 G4 - - - - - | G4 E4 E4 - F4 D4 D4 - | C4 E4 C4 - - - - -
+guitar@0.6: C3 - G3 - G2 - G3 - | C3 - G3 - C3 - G3 - | C3 - G3 - G2 - G3 - | C3 - G2 - C3 - - -
+guitar@0.6: C3 - G3 - G2 - G3 - | C3 - G3 - C3 - G3 - | C3 - G3 - G2 - G3 - | C3 - G2 - C3 - - -

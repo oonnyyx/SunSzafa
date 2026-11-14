@@ -1,0 +1,9 @@
+# tytul: Happy Birthday
+# autor: Mildred i Patty Hill
+# tempo: 4.5
+bell: G4 G4 | A4 - G4 - C5 - | B4 - - - G4 G4 | A4 - G4 - D5 - | C5 - - - G4 G4
+bell: G5 - E5 - C5 - | B4 - A4 - F5 F5 | E5 - C5 - D5 - | C5 - - - - -
+harp@0.6: - - | C4+E4 - - - - - | G3+B3 - - - - - | G3+B3 - - - - - | C4+E4 - - - - -
+harp@0.6: C4+E4 - - - - - | F3+A3 - - - - - | C4+E4 - - - G3+B3 - | C4+E4 - - - - -
+bass@0.8: - - | C3 - - - - - | G2 - - - - - | G2 - - - - - | C3 - - - - -
+bass@0.8: C3 - - - - - | F2 - - - - - | C3 - - - G2 - | C3 - - - - -

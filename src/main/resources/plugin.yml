@@ -1,0 +1,16 @@
+name: SunSzafa
+version: '${project.version}'
+main: pl.onyxdev.szafa.SunSzafa
+api-version: '26.2'
+author: oonnyyx
+depend: [SunCore]
+description: Szafa grająca na SunCraftMC — utwory .nbs na blokach nutowych, kolejka, hologram „teraz gra”
+commands:
+  szafa:
+    description: Szafa grająca
+    aliases: [jukebox]
+    usage: /szafa [postaw|usun|reload|lista|stop|wycisz]
+permissions:
+  szafa.admin:
+    description: Stawianie szaf, wczytywanie utworów, pomijanie
+    default: op

@@ -1,0 +1,7 @@
+# tytul: Menuet G-dur
+# autor: Christian Petzold (dawniej przypisywany J. S. Bachowi)
+# tempo: 5
+harp: D5 - G4 A4 B4 C5 | D5 - G4 - G4 - | E5 - C5 D5 E5 F#5 | G5 - G4 - G4 - | C5 - D5 C5 B4 A4 | B4 - C5 B4 A4 G4 | F#4 - G4 A4 B4 G4 | A4 - - - - -
+harp: D5 - G4 A4 B4 C5 | D5 - G4 - G4 - | E5 - C5 D5 E5 F#5 | G5 - G4 - G4 - | C5 - D5 C5 B4 A4 | B4 - C5 B4 A4 G4 | A4 - B4 A4 G4 F#4 | G4 - - - - -
+bass@0.7: G2 - - - A2 - | B2 - - - - - | C3 - - - - - | B2 - - - - - | A2 - - - - - | G2 - - - - - | D3 - - - B2 - | D3 - - - D2 -
+bass@0.7: G2 - - - A2 - | B2 - - - - - | C3 - - - - - | B2 - - - - - | A2 - - - - - | G2 - - - - - | D3 - - - D2 - | G2 - - - - -

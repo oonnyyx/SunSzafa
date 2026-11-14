@@ -1,0 +1,7 @@
+# tytul: Eine kleine Nachtmusik
+# autor: Wolfgang Amadeus Mozart
+# tempo: 5
+harp: G4 - - D4 G4 - - D4 | G4 D4 G4 B4 D5 - - - | C5 - - A4 C5 - - A4 | C5 A4 F#4 A4 D4 - - -
+harp: G4 - - D4 G4 - - D4 | G4 D4 G4 B4 D5 - - - | C5 - - A4 C5 - - A4 | C5 A4 F#4 A4 G4 - - -
+bass@0.75: G2 - G3 - G2 - G3 - | G2 - G3 - G2 - G3 - | D3 - A3 - D3 - A3 - | D3 - A3 - D3 - - -
+bass@0.75: G2 - G3 - G2 - G3 - | G2 - G3 - G2 - G3 - | D3 - A3 - D3 - A3 - | D3 - A3 - G2 - - -

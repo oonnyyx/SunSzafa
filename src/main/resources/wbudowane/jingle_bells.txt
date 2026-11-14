@@ -1,0 +1,15 @@
+# tytul: Jingle Bells
+# autor: James Lord Pierpont
+# tempo: 5.5
+bell: E4 - E4 - E4 - - - | E4 - E4 - E4 - - - | E4 - G4 - C4 - - D4 | E4 - - - - - - -
+bell: F4 - F4 - F4 - - F4 | F4 - E4 - E4 - E4 E4 | E4 - D4 - D4 - E4 - | D4 - - - G4 - - -
+bell: E4 - E4 - E4 - - - | E4 - E4 - E4 - - - | E4 - G4 - C4 - - D4 | E4 - - - - - - -
+bell: F4 - F4 - F4 - - F4 | F4 - E4 - E4 - E4 E4 | G4 - G4 - F4 - D4 - | C4 - - - - - - -
+bass@0.75: C3 - G2 - C3 - G2 - | C3 - G2 - C3 - G2 - | C3 - G2 - C3 - G2 - | C3 - G2 - C3 - G2 -
+bass@0.75: F2 - C3 - F2 - C3 - | C3 - G2 - C3 - G2 - | D3 - A2 - D3 - A2 - | G2 - D3 - G2 - D3 -
+bass@0.75: C3 - G2 - C3 - G2 - | C3 - G2 - C3 - G2 - | C3 - G2 - C3 - G2 - | C3 - G2 - C3 - G2 -
+bass@0.75: F2 - C3 - F2 - C3 - | C3 - G2 - C3 - G2 - | G2 - D3 - G2 - D3 - | C3 - G2 - C3 - - -
+chime@0.25: E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5
+chime@0.25: E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5
+chime@0.25: E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5
+chime@0.25: E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 E5 E5 E5 E5 E5 E5 E5 | E5 - - - - - - -
