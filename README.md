@@ -4,6 +4,10 @@
 
 A jukebox for Paper 26.2 that plays Note Block Studio songs (`.nbs`) using note block sounds, with a song queue and a "now playing" hologram above it.
 
+<p align="center">
+  <img src="docs/menu.jpg" width="600" alt="Song menu">
+</p>
+
 ## Features
 
 - Turn any block into a jukebox; players right-click it to pick a song from a menu

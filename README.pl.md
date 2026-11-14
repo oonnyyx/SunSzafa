@@ -4,6 +4,10 @@
 
 Szafa grająca na Paper 26.2. Odtwarza utwory z Note Block Studio (`.nbs`) dźwiękami bloków nutowych, ma kolejkę i hologram „teraz gra” nad szafą.
 
+<p align="center">
+  <img src="docs/menu.jpg" width="600" alt="Menu utworów">
+</p>
+
 ## Co potrafi
 
 - Szafą może być dowolny blok; gracz klika PPM i wybiera utwór z menu
